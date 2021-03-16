@@ -1,9 +1,9 @@
 {
-  "name": "sraco-theme",
+  "name": "fred-tailwind-boilderplate",
   "version": "1.0.0",
-  "description": "Sarofim Realty Advisors Fred Theme",
+  "description": "Boilder plate tailwindcss setup for Fred Theme",
   "main": "index.js",
-  "repository": "https://github.com/modxcms/sraco-theme",
+  "repository": "https://github.com/matdave/fred-tailwind-boilderplate",
   "author": "matdave <mat@matdave.com>",
   "license": "MIT",
   "private": true,
