@@ -1,0 +1,9 @@
+node_modules
+.vscode
+vendor/*/*.json
+dist
+yarn-error.log
+.DS_Store
+.env
+deploy.sh
+project_files
